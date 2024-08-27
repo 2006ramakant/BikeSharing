@@ -23,7 +23,7 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 ## The comapany should focus on the following features:
 - Company should focus on expanding business during Summer and Winter.
 - Company should focus on expanding business Specially on September month.
-- There would be less bookings during Light Spring / Snow or Rain and during Novembr, December and Junauary month, they could probably use this time to service and maintain the bikes without having business impact.
+- There would be less bookings during Light Spring / Snow or Rain and during November, December and Junauary month, they could probably use this time to service and maintain the bikes without having business impact.
 
 Significant variables to predict the demand for shared bikes
 - yr
